@@ -1,15 +1,15 @@
 ### 🥳Hello there!! My Name is Jaden!🥳
 
 
-##Who am i?
+##About me!##
+I am currently a student at General Assembly, and learning the skills to be a fullstack software engineer!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: 
 
-- 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
   
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on:
+- 📫 How to reach me:
+    You can email me at [pjaden.garrity@gmail.com](pjaden.grrity@gmail.com)
 - 😄 Pronouns: He/They
-- ⚡ Fun facts: Im a big gamer! I love to work with projects involving social media marketing! I am also a Hairdresser!
+- ⚡ Fun fact: Im a big gamer!
