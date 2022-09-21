@@ -24,6 +24,6 @@ You can email me at pjaden.garrity@gmail.com. You can also find me on [Linkdin](
 --- 
 He/They
 
-** ⚡ Fun fact**
+**⚡ Fun fact**
 ---
 Im a big gamer! 
