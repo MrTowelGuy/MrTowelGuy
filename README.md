@@ -6,15 +6,16 @@ Growing up i had a very creative upbringing from both sides of my family. I grew
 
 **🔭 I’m currently working on**
 ---
-A fun instagram like inspired app called [weebLine](http://manga-project24.herokuapp.com/home)
+Expanding my knowledge through UDEMY courses!
 
 **🌱 I’m currently learning**
 ---  
-My cohort is primariy focusing on HTML, CSS, JavaScript, jQuery, React, Ruby, and Python.
+I'm currently enjoying new material with a UI/UX Adobe master class, and also reviewing a lot of React based materials!
 
 **👯 I’m looking to collaborate on**
 ---
 Anything! My specialty is styling and being creative! Especially love working on fun nerdy things!
+Open to freelance projects and/ or collaborations! 
 
 **📫 How to reach me**
 ---
