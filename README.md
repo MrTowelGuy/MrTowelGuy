@@ -27,4 +27,4 @@ He/They
 
 **⚡ Fun fact**
 ---
-Im a big gamer! 
+I'm a big gamer! Huge Dark Souls, Bloodborne, Elden Ring fan. Also really love to dabble with classic vintage games, or competative titles such as Overwatch, Apex, or Fortnite!
