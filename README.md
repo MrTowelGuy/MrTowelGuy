@@ -2,7 +2,7 @@
 
 **About me!**
 ---
-Growing up i had a very creative upbringing from both sides of my family. I grew up playing music and making visual art, and eventually became a touring musician and a hairdresser in my late teen years. I have always had a passion for creativity and socializing. Dabbling in multiple career fields before, i had recently decided to take the leap into IT and learn the skills to become a software engineer! I am a recent General Assembly graduate, and im so excited to get out and show the world what im able to ccomplish!
+Growing up I had a very creative upbringing from both sides of my family. I grew up playing music and making visual art, and eventually became a touring musician and a hairdresser in my late teen years. I have always had a passion for creativity and socializing. Dabbling in multiple career fields before, I recently was nudged by some peers to try for the IT field. Taking the idea and making it an amazing reality, I have loved every second of what I have learned and created! I am very excited to say that I am a recent General Assembly graduate, and i'm so excited to get out and show the world what i'm able to accomplish!
 
 **🔭 I’m currently working on**
 ---
