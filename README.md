@@ -6,7 +6,7 @@ Growing up I had a very creative upbringing from both sides of my family. I grew
 
 **🔭 I’m currently working on**
 ---
-Expanding my knowledge through UDEMY courses!
+Expanding my knowledge through UDEMY courses, and working on new projects with a new dev team composed of some other dev friends and I!
 
 **🌱 I’m currently learning**
 ---  
