@@ -7,6 +7,7 @@ Growing up I had a very creative upbringing from both sides of my family. I grew
 **🔭 I’m currently working on 🔭**
 ---
 Expanding my knowledge through UDEMY courses, and working on new projects with a new dev team composed of some other dev friends and I!
+I am also working on an app called Clique, but i cannot talk too much about it at the moment!
 
 **🌱 I’m currently learning 🌱**
 ---  
